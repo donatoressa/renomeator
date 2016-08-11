@@ -1,0 +1,17 @@
+d:\users\dressa\documents\visual studio 2010\Projects\Renomeator\Renomeator\bin\Debug\Renomeator.exe
+d:\users\dressa\documents\visual studio 2010\Projects\Renomeator\Renomeator\bin\Debug\Renomeator.pdb
+d:\users\dressa\documents\visual studio 2010\Projects\Renomeator\Renomeator\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\dressa\documents\visual studio 2010\Projects\Renomeator\Renomeator\obj\x86\Debug\Renomeator.Form1.resources
+d:\users\dressa\documents\visual studio 2010\Projects\Renomeator\Renomeator\obj\x86\Debug\Renomeator.Properties.Resources.resources
+d:\users\dressa\documents\visual studio 2010\Projects\Renomeator\Renomeator\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\users\dressa\documents\visual studio 2010\Projects\Renomeator\Renomeator\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\users\dressa\documents\visual studio 2010\Projects\Renomeator\Renomeator\obj\x86\Debug\Renomeator.exe
+d:\users\dressa\documents\visual studio 2010\Projects\Renomeator\Renomeator\obj\x86\Debug\Renomeator.pdb
+C:\Users\donato.ressa\Documents\Visual Studio 2013\Projects\Renomeator\Renomeator\obj\x86\Debug\Renomeator.exe
+C:\Users\donato.ressa\Documents\Visual Studio 2013\Projects\Renomeator\Renomeator\obj\x86\Debug\Renomeator.pdb
+C:\Users\donato.ressa\Documents\Visual Studio 2013\Projects\Renomeator\Renomeator\bin\Debug\Renomeator.exe
+C:\Users\donato.ressa\Documents\Visual Studio 2013\Projects\Renomeator\Renomeator\bin\Debug\Renomeator.pdb
+C:\Users\donato.ressa\Documents\Visual Studio 2013\Projects\Renomeator\Renomeator\obj\x86\Debug\Renomeator.csprojResolveAssemblyReference.cache
+C:\Users\donato.ressa\Documents\Visual Studio 2013\Projects\Renomeator\Renomeator\obj\x86\Debug\Renomeator.Form1.resources
+C:\Users\donato.ressa\Documents\Visual Studio 2013\Projects\Renomeator\Renomeator\obj\x86\Debug\Renomeator.Properties.Resources.resources
+C:\Users\donato.ressa\Documents\Visual Studio 2013\Projects\Renomeator\Renomeator\obj\x86\Debug\Renomeator.csproj.GenerateResource.Cache
